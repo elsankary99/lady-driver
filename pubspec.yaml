@@ -30,6 +30,7 @@ environment:
 dependencies:
   auto_route: ^9.2.2
   cupertino_icons: ^1.0.8
+  dio: ^5.8.0+1
   flutter:
     sdk: flutter
   flutter_bloc: ^9.0.0
@@ -42,6 +43,7 @@ dependencies:
   pinput: ^5.0.0
   riverpod_annotation: ^2.6.1
   shared_preferences: ^2.3.5
+  top_snackbar_flutter: ^3.2.0
 
 dev_dependencies:
   auto_route_generator: ^9.0.0
